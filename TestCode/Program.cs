@@ -10,6 +10,8 @@ namespace TestCode
     {
         static void Main(string[] args)
         {
+            PattenPrint _PattenPrint = new PattenPrint();
+            _PattenPrint.run();
         }
     }
 }
