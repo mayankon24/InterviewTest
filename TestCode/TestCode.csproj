@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Fibonnic.cs" />
+    <Compile Include="DuplicateChar.cs" />
     <Compile Include="PattenPrint.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

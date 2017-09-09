@@ -10,7 +10,7 @@ namespace TestCode
     {
         static void Main(string[] args)
         {
-            Fibonnic obj = new Fibonnic();
+            DuplicateChar obj = new DuplicateChar();
             obj.run();
         }
     }
