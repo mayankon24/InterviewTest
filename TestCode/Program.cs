@@ -10,7 +10,7 @@ namespace TestCode
     {
         static void Main(string[] args)
         {
-            DuplicateChar obj = new DuplicateChar();
+            SubStringMatch obj = new SubStringMatch();
             obj.run();
         }
     }
