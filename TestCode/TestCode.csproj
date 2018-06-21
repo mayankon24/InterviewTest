@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Fibonnic.cs" />
     <Compile Include="DuplicateChar.cs" />
+    <Compile Include="Parenthiesvalidation.cs" />
     <Compile Include="SubStringMatch.cs" />
     <Compile Include="PattenPrint.cs" />
     <Compile Include="Program.cs" />
