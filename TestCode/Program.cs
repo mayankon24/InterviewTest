@@ -10,7 +10,7 @@ namespace TestCode
     {
         static void Main(string[] args)
         {
-            Parenthiesvalidation obj = new Parenthiesvalidation();
+            IsHappyNo obj = new IsHappyNo();
             obj.run();
         }
     }
